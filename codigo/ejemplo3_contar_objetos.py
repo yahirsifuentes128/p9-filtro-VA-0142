@@ -1,5 +1,6 @@
 import cv2
-#yahir sifuentes NC = 0142 
+#yahir sifuentes NC = 0142
+# problema 3 NL = 54  
 
 # Cargar imagen
 imagen = cv2.imread("imagenes/gorrion gordillo.jpg")
